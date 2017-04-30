@@ -1,0 +1,30 @@
+p {
+  color: blue;
+  text-align: center;
+}
+body {
+  width: 100%;
+}
+header, nav{
+  text-align: center;
+}
+ul{
+  list-style:none;
+  display:inline;
+}
+
+ul li a{
+  display: inline-flex;
+}
+img {margin-left: 600px;
+}
+section p {
+ font-weight: bold;
+ font-size: 30px;
+ text-align: center;
+ background-image: url("images/big_mossy_rock_by_pdeck-d537lg0.jpg");
+ background-repeat: no-repeat;
+ height: 250px;
+ font-weight: bold;
+ color: black;
+}
